@@ -81,7 +81,6 @@ pytorch-lightning
 qdrant-client
 ragas
 rank-bm25
-ray
 reportlab
 requests
 restrictedpython
@@ -117,7 +116,6 @@ ultralytics
 unstructured
 uv
 uvicorn
-vllm
 wandb
 weaviate-client
 xgboost
