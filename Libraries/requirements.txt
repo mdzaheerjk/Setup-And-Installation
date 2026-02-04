@@ -5,3 +5,8 @@ seaborn
 scikit-learn
 streamlit
 flask
+transformers
+peft
+wandb
+datasets
+tensorflow
