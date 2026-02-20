@@ -120,3 +120,4 @@ wandb
 weaviate-client
 xgboost
 autogenstudio
+mlflow
