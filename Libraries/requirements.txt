@@ -121,3 +121,4 @@ weaviate-client
 xgboost
 autogenstudio
 mlflow
+pymongo
