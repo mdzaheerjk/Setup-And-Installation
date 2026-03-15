@@ -126,3 +126,4 @@ librosa
 psycopg2
 supabase
 docx
+scapy
