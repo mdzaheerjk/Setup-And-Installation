@@ -125,3 +125,4 @@ pymongo
 librosa
 psycopg2
 supabase
+docx
