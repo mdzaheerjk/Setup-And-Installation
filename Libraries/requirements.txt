@@ -122,3 +122,5 @@ xgboost
 autogenstudio
 mlflow
 pymongo
+librosa
+psycopg2
