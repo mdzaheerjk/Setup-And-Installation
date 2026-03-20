@@ -127,3 +127,4 @@ psycopg2
 supabase
 docx
 scapy
+langchain_chroma
